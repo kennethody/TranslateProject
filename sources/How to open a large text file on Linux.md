@@ -1,3 +1,5 @@
+[kennethody翻译中]
+
 How to open a large text file on Linux
 ================================================================================
 In the era of "big data", large text files (GB or more) could be commonly encountered around us. Suppose you somehow need to search and edit one of those big text files by hand. Or you could be analyzing multi-GB log files manually for specific troubleshooting purposes. A typical text editor may not be designed to deal with such large text files efficiently, and may simply get choked while attempting to open a big file, due to insufficient memory.
